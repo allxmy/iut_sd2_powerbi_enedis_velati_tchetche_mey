@@ -1,0 +1,96 @@
+1. Objectif du tableau de bord
+
+Ce tableau de bord a pour objectif de fournir une vision globale et synthétique de la performance énergétique des logements situés en Nouvelle-Aquitaine, à travers l’analyse des 
+Diagnostics de Performance Énergétique (DPE).
+
+Il permet à l’utilisateur de :
+	•	comprendre la répartition des logements par classe DPE,
+	•	identifier des tendances et déséquilibres énergétiques,
+	•	explorer les données selon différents critères,
+	•	disposer d’un outil d’aide à la décision simple et interactif.
+
+2. Public cible
+
+Ce tableau de bord s’adresse principalement à :
+	•	des analystes métiers ENEDIS,
+	•	des décideurs non techniques,
+	•	toute personne de ENEDIS souhaitant analyser la performance énergétique du parc de logements.
+
+Aucune compétence technique ou connaissance de Power BI n’est requise pour son utilisation.
+
+3. Périmètre fonctionnel
+
+Le tableau de bord exploite des données relatives :
+	•	aux classes DPE (de A à G),
+	•	aux logements situés en Nouvelle-Aquitaine,
+	•	à différentes caractéristiques associées aux logements (consommation, cout énergétique, type de bâtiment,...).
+
+4. Structure du tableau de bord
+
+Le tableau de bord est organisé en plusieurs pages, accessibles via le bandeau de navigation.
+
+4.1 Page d'accueil
+
+Cette page propose une lecture rapide et synthétique de la situation énergétique :
+	•	Nombre total de DPE
+	•	Consommation moyenne
+	•	Nombre de logements passoires
+	•	Coût énergétique annuel moyen
+	•	Taux de logements performants (dpe A, B et C)
+	•	Répartition par classes DPE
+	•	Consommation égergétique par période de construction
+	•	Coût énergétique moyen par type d'énergie
+	•	Emissions GES par type de bâtiment
+
+Objectif : obtenir une compréhension immédiate et complète de l’état du parc immobilier.
+
+4.2 Page d'analyseur de performance
+
+Cette page propose une lecture approfondie sur des analyses de performance :
+	•	Evolution temporelle du nombre de DPE
+	•	Corrélation entre deux variables au choix
+	•	Comparaison entre deux variables au choix
+	•	Comparaison en chiffre
+
+4.3 Page d'analyse géographique
+
+Cette page propose une lecture géographique de la situation énergétique :
+	•	Carte des villes de la Nouvelle Aquitaine (répartition des DPE)
+	•	Carte global de la Nouvelle Aquitaine (répartition des DPE)
+
+5. Filtres et interactions
+
+L’utilisateur peut interagir avec le tableau de bord via des filtres permettant de :
+	•	restreindre le périmètre d’analyse,
+	•	comparer différentes catégories,
+	•	adapter l’affichage à un besoin spécifique.
+
+6. Lecture et interprétation des résultats
+	•	Les classes DPE sont classées de A (très performant) à G (très énergivore).
+	•	Une forte représentation des classes F et G peut indiquer un enjeu important de rénovation énergétique.
+	•	Les visualisations permettent de comparer rapidement les niveaux de performance.
+
+Ce tableau de bord fournit une aide à l’analyse, mais ne constitue pas une étude réglementaire
+
+7. Finalité du tableau de bord
+
+Ce tableau de bord a été conçu comme :
+	•	un outil d’analyse exploratoire,
+	•	un support à la prise de décision,
+	•	un moyen de sensibilisation aux enjeux énergétiques du logement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
