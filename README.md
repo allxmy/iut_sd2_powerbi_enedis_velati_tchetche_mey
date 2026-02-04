@@ -8,6 +8,10 @@ Dans un contexte de transition énergétique et de hausse des coûts de l’éne
 
 Ce projet consiste en la conception d’un tableau de bord Power BI permettant d’analyser la répartition des Diagnostics de Performance Énergétique (DPE) des logements de la région Nouvelle-Aquitaine, ainsi que des indicateurs associés.
 
+# Liens
+
+Vidéo présentation :
+Lien PowerOnline :
 
 # Objectifs du tableau de bord
 	•	visualiser la répartition des logements par classe DPE (A à G),
