@@ -14,8 +14,7 @@ Le périmètre de cette étude porte sur la région Nouvelle-Aquitaine et vise �
 Ce tableau de bord a pour objectif d’aider à la compréhension des enjeux énergétiques du parc immobilier et de servir d’outil d’aide à la décision pour les acteurs concernés.
 
 2 - Architecture générale
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A MODIFIER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Description rapide du flux de données :
+
 Sources de données
       ↓
 Power Query (ETL)
@@ -25,7 +24,7 @@ Modèle de données (Power BI)
 Mesures DAX
       ↓
 Rapports & Visualisations
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A MODIFIER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 Source de donnée :
 Source  |       Type        |      Description
 CSV     |  Base de données  |  Données de référence
@@ -66,15 +65,4 @@ Mesure    |      Description
 Page    |      Description
 
 
-7. Déploiement et utilisation
 
-7.1 Prérequis
-	•	Power BI Desktop (version recommandée)
-	•	Accès aux sources de données
-	•	Droits nécessaires (si Service)
-
-7.2 Ouverture du projet
-	1.	Cloner le repository
-	2.	Ouvrir le fichier .pbix
-	3.	Mettre à jour les paramètres de source
-	4.	Rafraîchir les données
