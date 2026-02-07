@@ -51,7 +51,6 @@ Aucune compétence technique n’est requise pour l’utilisation du tableau de 
 
 
 # Structure du repository
-	•	dashboard.pbix
 	•	README.md
     •   doc_technique.md
     •   doc_fonctionnelle.md
