@@ -14,6 +14,7 @@ Vidéo présentation : https://www.youtube.com/watch?v=J4iSfFJmXKo
 
 Lien PowerOnline : https://app.powerbi.com/groups/me/reports/f4d0f205-71a3-4f65-ab82-f127ae0feea6?ctid=a51a6642-5911-4306-a13c-f4731ab9c63f&pbi_source=linkShare
 
+Lien Maquette : https://www.canva.com/design/DAG7HV7hpxo/tpM9IiT7AEhGwNmXOFOpZA/edit?utm_content=DAG7HV7hpxo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 # Objectifs du tableau de bord
 	•	visualiser la répartition des logements par classe DPE (A à G),
 	•	analyser la performance énergétique du parc immobilier régional,
